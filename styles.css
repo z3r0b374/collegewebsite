@@ -1,0 +1,58 @@
+.head{
+       color=#2f5ba0;
+       font-size=bigger;
+       text-align=center;
+       font-family: Arial, Helvetica, sans-serif;
+      }
+.abt{
+ text-align=center;
+}
+table {
+  border-collapse: collapse;
+  
+}
+
+th, td {
+  border-bottom: 1px solid #ddd;
+}
+th {
+  background-color: #4CAF50;
+  color: white;
+}
+.nav{
+     width=100%;
+     display=inline;
+     text-align=center; 
+     bottom-margin=2em;
+     background-color="red"; 
+     color="white";   
+}
+.anc{
+     padding-right:3em;
+}
+#left_container
+ { 
+  border-style=solid;
+  border-width=1px;
+  height=30em; 
+}
+th, td {
+   padding: 15px;
+  text-align: left;
+} 
+
+#pd{
+     padding-left:30em;
+}  
+  
+ a:link, a:visited {
+  background-color: #red;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+.mq{
+    backgr              
